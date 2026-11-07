@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Huzaifa Awais
 
-<!--
-**awaishuzaifa21-source/awaishuzaifa21-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead Software Engineer at **Cyberonium**, a Canadian software company. I lead development of **[NanoNear](https://nanonear.com/)**, a suite of business apps: CRM, e-signing, email marketing, time tracking, HR, point of sale and cloud telephony.
 
-Here are some ideas to get you started:
+I also study Computer Engineering at FAST NUCES Lahore (2023 to 2027).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+- Laravel, PHP and MySQL for SaaS products
+- Electron for desktop apps
+- Python and C++
+- FusionPBX and WebRTC for telephony
+- Astro and TypeScript for my own site
+
+## Find me
+
+- Website and CV: [huzaifaawais.me](https://huzaifaawais.me/)
+- 200 free browser tools: [huzaifaawais.me/tools](https://huzaifaawais.me/tools/)
+- Experience: [huzaifaawais.me/experience](https://huzaifaawais.me/experience/)
+- LinkedIn: [Huzaifa Awais](https://www.linkedin.com/in/huzaifa-awais-45226a314/)
+
+Open to remote roles, contracts and freelance SaaS work.
